@@ -1,4 +1,5 @@
 import Login from "./Components/Login"
+import Register from "./Components/Register"
 
 function Landing() {
 
